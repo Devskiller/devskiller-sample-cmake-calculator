@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "../src/Calculator.hpp"
+#include "../src/Calculator.h"
 
 class VerificationCalculatorTest : public ::testing::Test {
 protected:
